@@ -20,7 +20,7 @@ include('includes/header.php'); ?>
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto">
-                    <h2 class="text-center">BIENVENUE</h2>
+                    <h2 class="text-center">Bienvenue</h2>
                     <p class="paragraphe">Chez L’Âmagit, nous croyons fermement que la guérison vient de l’intérieur.
 
                         Chaque individu possède en lui des capacités innées de guérison et de transformation.
@@ -47,7 +47,7 @@ include('includes/header.php'); ?>
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto">
-                    <h2 class="text-center">BOUDDHA</h2>
+                    <h2 class="text-center">Bouddha</h2>
                     <p class="paragraphe bouddha">"Nous sommes ce que nous pensons. Tout ce que nous sommes résulte de nos pensées. Avec nos pensées, nous bâtissons notre monde"</p>
                     <p class="d-flex justify-content-end">Bouddha</p>
                 </div>
