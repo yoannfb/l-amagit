@@ -60,11 +60,11 @@ Toutes les réponses sont en nous ! Et si nous allions simplement les chercher ?
                 <h4>Objets plantés</h4>
                 <p>Les objets plantés, aussi appelés implants énergétiques sont des énergies étrangères ancrées dans le corps éthérique. Ils peuvent résulter de traumatismes passés, de pensées négatives répétées, de relations toxiques ou même d’influences extérieures nuisibles. Ces implants énergétiques sont souvent responsable de mal-être et de douleurs physiques persistantes dans des zones spécifiques du corps. En libérant ces énergies, nous permettons au corps de se rétablir et à l'esprit de retrouver la paix.</p>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-6 d-flex flex-column align-self-end" data-aos="fade-up" data-aos-anchor-placement="center-center">
+            <div class="col-lg-6 col-md-6 col-sm-6 d-flex flex-column align-self-end" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <h4>Entités</h4>
                 <p>Les entités sont les esprits de personnes disparues, qui ne sont pas passées de l’autre côté et qui s’accrochent encore à ce monde. Elles peuvent se fixer sur un lieu ou une personne et perturber son bien-être. Les effets de la présence d'une entité peuvent se manifester sous forme de lourdeur, de fatigue inexpliquée, de changements d'humeur soudains ou d'une sensation de stagnation dans la vie. Les soins énergétiques visent à libérer ces entités pour restaurer l'harmonie et le calme intérieur.</p>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-6" data-aos="fade-up-right">
+            <div class="col-lg-6 col-md-6 col-sm-6" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <h4>Larves</h4>
                 <p>Les larves énergétiques sont considérées comme des formes d’énergies négatives, souvent perçues comme des parasites. Elles se fixent sur un individu, absorbant son énergie vitale et créant un vide énergétique. Cela peut provoquer de la fatigue excessive, une amplification des émotions négatives telles que la colère, la tristesse ou l'anxiété, ou encore des troubles de la concentration.
 
