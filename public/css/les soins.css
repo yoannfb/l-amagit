@@ -1,0 +1,35 @@
+section {
+    background-color: #fff8ef;
+}
+.energy img {
+    width: 50%;
+    height: 50%;
+    border-radius: 10%;
+}
+
+h3 {
+    text-align: center;
+}
+
+.bouton {
+    width: 20%;
+    text-align: center;
+    font-family: cursive;
+    background-color: rgba(84,44,35,1);
+    border-radius: 10px;
+    color: white;
+}
+
+h3, p, h4, h2 {
+    font-family: cursive;
+}
+
+h1 {
+    font-family: cursive;
+    font-weight: 700;
+    font-size: 7rem;
+}
+mark {
+    background-color: rgba(84,44,35,1);
+    color: white;
+}

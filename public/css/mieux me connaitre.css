@@ -1,0 +1,40 @@
+body {
+    background-color: #fff8ef;
+}
+
+p {
+    font-family: cursive;
+    display: inline-block;
+    margin-top: 100px;
+    position: relative;
+}
+
+h1 {
+    font-family:"Monsieur La Doulaise", cursive;
+    font-weight: 500;
+    font-size: 42px;
+}
+
+
+p::after {
+    content: "";
+    position: absolute;
+    display: block;
+    height: 100%;
+    width: 3px;
+    right: -15px;
+    top: 0;
+    animation: cursor 1s infinite;
+}
+
+@keyframes cursor {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}

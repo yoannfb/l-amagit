@@ -1,0 +1,23 @@
+# docker-compose.yml
+services:
+  web:
+    build: .
+    ports:
+      - "8080:80"
+    volumes:
+      - .:/var/www
+    environment:
+      SMTP_HOST: smtp.gmail.com
+      SMTP_PORT: "587"
+      SMTP_USER: "yoannfavre655@gmail.com"
+      SMTP_PASS: "Brazil1333*"
+      SMTP_SECURE: "tls"        # vide pour MailHog (pas de TLS)
+      FROM_EMAIL: contact@exemple.test
+      FROM_NAME: "L'Amagit"
+      TO_EMAIL: toi@exemple.test
+
+  mailhog:
+    image: mailhog/mailhog:latest
+    ports:
+      - "1025:1025"   # port SMTP (captation)
+      - "8025:8025"   # UI web pour voir les mails

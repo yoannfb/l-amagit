@@ -1,0 +1,8 @@
+.logo img {
+    width: 100%;
+}
+
+.navbar {
+    background: linear-gradient(0deg, rgba(84,44,35,1) 0%, rgba(255,248,239,1) 100%);
+    font-weight: 600;
+}
