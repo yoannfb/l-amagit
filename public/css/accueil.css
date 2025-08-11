@@ -7,6 +7,12 @@
     background-size: cover;
     min-height: 500px;
 }
+
+@supports (-webkit-overflow-scrolling: touch) {
+    .parallax {
+        background-attachment: scroll;
+    }
+}
 .overlay{
     position: absolute;
     top: 0;
