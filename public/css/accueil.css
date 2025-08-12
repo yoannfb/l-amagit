@@ -9,7 +9,7 @@
 }
 
 @supports (-webkit-overflow-scrolling: touch) {
-    .parallax {
+    .parallax-section {
         background-attachment: scroll;
     }
 }
