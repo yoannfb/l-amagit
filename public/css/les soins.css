@@ -2,11 +2,10 @@ section {
     background-color: #fff8ef;
 }
 .energy img {
-    width: 10%;
-    height: 10%;
+    width: 25%;
+    height: 25%;
     border-radius: 10%;
-    display: flex;
-    justify-content: center;
+
 }
 
 h3 {
