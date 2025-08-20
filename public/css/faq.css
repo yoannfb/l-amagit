@@ -26,3 +26,8 @@
     display: flex;
     text-align: center;
 }
+
+.title{
+    font-family: cursive;
+    font-size: 50px;
+}

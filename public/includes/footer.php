@@ -1,10 +1,7 @@
 <footer>
         <div class="footer">
             <p>&#169 L'Amagit</p>
-            <p>Suivez-nous</p>
-            <a href=""><i class="fa-brands fa-facebook"></i></a>
-            <a href=""><i class="fa-brands fa-square-x-twitter"></i></a>
-            <a href=""><i class="fa-brands fa-instagram"></i></a>
+            <p>Contact : 06 01 02 03 04</p>
             <a href="#">Mentions-legales</a>
         </div>
     </footer>

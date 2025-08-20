@@ -4,7 +4,7 @@ include('includes/header.php'); ?>
 <link rel="stylesheet" href="../css/mieux me connaitre.css">
 <link href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Monsieur+La+Doulaise&display=swap" rel="stylesheet">  
 
-    <section class="col-lg-8 col-md-8 col-sm-6 d-flex align-items-center mx-auto mt-5">
+    <section class="col-lg-8 col-md-8 col-sm-6 d-flex align-items-center mx-5 mt-5">
         <h1></h1>
     </section>
     <!--<section  class="col-lg-6 col-md-6 col-sm-6 d-flex justify-content-center mx-auto" data-aos="zoom-in-up">

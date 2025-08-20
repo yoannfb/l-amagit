@@ -4,7 +4,9 @@ include('includes/header.php'); ?>
 <link rel="stylesheet" href="../css/faq.css">
 <section class="general">
         <div class="faq">
+            <h5 class="title">cliquer pour obtenir la réponse</h5>
             <div  id="lien" class="d-flex">
+                
                 <div class="text col-lg-4 col-md-4 d-flex align-items-center m-5 mx-1">Comment se déroule une séance d'hypnose spirituelle, régréssive énergétique?</div>
                 <p class="answer col-lg-6 col-md-6 pt-4 ps-5 mx-auto">Une séance commence par un entretien pour comprendre vos besoins et vos objectifs.
                     Ensuite, vous serez guidé dans un état de relaxation profonde via des techniques d'hypnose. Une foie en état hypnotique, nous explorerons ensemble des vies passées ou des mémoires anciennes, tout en utilisant des techniques énergétiques pour libérer les blocages et favoriser la guérison.</p>
