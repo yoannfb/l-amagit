@@ -6,8 +6,7 @@ include('includes/header.php'); ?>
 
 <section class="col-lg-12 col-md-12 col-sm-12">
         <h1 class="text-center p-5">Les soins</h1>
-        <div class="col-lg-12 col-md-12 col-sm-12 d-flex flex-column flex-md-row justify-content-center align-items-center mx-auto pt-3 pe-3 pb-5 energy">
-            <div>
+        <div class="col-lg-12 col-md-12 col-sm-12 d-flex flex-column flex-md-row justify-content-center align-items-center mx-2 pt-3 pe-3 pb-5 energy">
                 <h3>Hypnose spirituelle régressive énergétique (HSRE)</h3>
                 <img src="../assets/images/678fc8_93bd6e0c106f4828b692b79022c24650~mv2.webp" data-aos="zoom-in" alt="">
                 <p class="col-lg-8 col-md-8 col-sm-12 mx-auto">
@@ -24,13 +23,9 @@ Toutes les réponses sont en nous ! Et si nous allions simplement les chercher ?
 « Faites confiance à votre inconscient, cet immense magasin de solutions ! » - Milton Erickson
                 </p>
                 <a href="#HSRE"><button class="bouton">en savoir plus</button></a>
-            </div>
-            
         </div>
 
-        <div class="col-lg-12 col-md-12 col-sm-12 d-flex flex-column flex-md-row justify-content-center align-items-center mx-auto ps-3 energy">
-            
-            <div class="d-flex flex-column justify-content-center">
+        <div class="col-lg-12 col-md-12 col-sm-12 d-flex flex-column flex-md-row justify-content-center align-items-center mx-2 ps-3 energy">
                 <h3>Soins énergétiques</h3>
                 <img src="../assets/images/678fc8_171a9bb02af14679941148508a215c7f~mv2.webp" data-aos="fade-down" alt="">
                 <p class="col-lg-8 col-md-8 col-sm-12 mx-auto">Les soins énergétiques sont un accompagnement visant à rétablir l'équilibre et l'harmonie de corps et de l'esprit. Chaque être vivant possède une énergie vitale qui circule en parmanence à travers son être. Cette énergie est essentielle à notre bien-être global et à notre capacité à nous épanouir. Cependant, lorsqu'elle est bloquée, perturbée ou déséquillibrée, cela peut entraîner des déséquilibres à différents niveaux: physique, émotionnel ou spirituel. Ces perturbations peuvent se manifester par des douleurs, des tensions, des troubles émotionnels ou encore un sentiment général de mal-être.
@@ -39,8 +34,6 @@ Toutes les réponses sont en nous ! Et si nous allions simplement les chercher ?
 
                 </p>
                 <a href="#soins énergétiques"><button class="bouton">en savoir plus</button></a>
-            </div>
-            
         </div>
         
     </section>

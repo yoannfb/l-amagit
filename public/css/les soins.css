@@ -2,9 +2,11 @@ section {
     background-color: #fff8ef;
 }
 .energy img {
-    width: 25%;
-    height: 25%;
     border-radius: 10%;
+    display: block;
+    margin: 15px auto; /* centre l’image horizontalement */
+    max-width: 100%;   /* pour éviter qu’elle dépasse sur mobile */
+    height: auto;
 
 }
 
@@ -13,12 +15,15 @@ h3 {
 }
 
 .bouton {
-    width: 20%;
+    display: block;
+    width: 100%;
     text-align: center;
     font-family: cursive;
     background-color: rgba(84,44,35,1);
     border-radius: 10px;
     color: white;
+    max-width: 350px;
+    height: 50px;
 }
 
 h3, p, h4, h2 {
