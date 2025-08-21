@@ -6,10 +6,11 @@ include('includes/header.php'); ?>
 
 <section class="col-lg-12 col-md-12 col-sm-12">
         <h1 class="text-center p-5">Les soins</h1>
-        <div class="col-lg-12 col-md-12 col-sm-12 d-flex flex-column flex-md-row justify-content-center align-items-center mx-2 pt-3 pe-3 pb-5 energy">
+        <div class="col-lg-12 col-md-12 col-sm-12 d-flex flex-column justify-content-center align-items-center mx-2 pt-3 px-3 pb-5 energy">
                 <h3>Hypnose spirituelle régressive énergétique (HSRE)</h3>
-                <img src="../assets/images/678fc8_93bd6e0c106f4828b692b79022c24650~mv2.webp" data-aos="zoom-in" alt="">
-                <p class="col-lg-8 col-md-8 col-sm-12 mx-auto">
+                <div class="d-flex flex-column flex-md-row align-items-center justify-content-center w-100 energy">   
+                    <img src="../assets/images/678fc8_93bd6e0c106f4828b692b79022c24650~mv2.webp" data-aos="zoom-in" alt="">
+                    <p class="col-lg-6 col-md-8 col-sm-12 mx-auto">
                     Il s'agit d'une hypnose conversationnelle qui permet au subconscient de s’exprimer, en se connectant à tout, sans limite de temps et d’espace, afin d’accéder aux causes profondes et originelles de nos problématiques.
 
 L'hypnose spirituelle régréssive énergétique va permettre d'identifier et de libérer les croyances limitantes, les blocages conscients ou inconscients et de guérir les traumatismes passés, qu'ils aient pour origine cette vie ou une vie antérieure.
@@ -21,20 +22,26 @@ Toutes les réponses sont en nous ! Et si nous allions simplement les chercher ?
  
 
 « Faites confiance à votre inconscient, cet immense magasin de solutions ! » - Milton Erickson
-                </p>
-                <a href="#HSRE"><button class="bouton">en savoir plus</button></a>
+                    </p>
+                </div>
+                <a href="#HSRE" class="btn bouton d-block w-50 w-md-auto mx-auto">en savoir plus</a>
         </div>
 
-        <div class="col-lg-12 col-md-12 col-sm-12 d-flex flex-column flex-md-row justify-content-center align-items-center mx-2 ps-3 energy">
+        <div class="col-lg-12 col-md-12 col-sm-12 d-flex flex-column justify-content-center align-items-center mx-2 px-3 energy">
                 <h3>Soins énergétiques</h3>
-                <img src="../assets/images/678fc8_171a9bb02af14679941148508a215c7f~mv2.webp" data-aos="fade-down" alt="">
-                <p class="col-lg-8 col-md-8 col-sm-12 mx-auto">Les soins énergétiques sont un accompagnement visant à rétablir l'équilibre et l'harmonie de corps et de l'esprit. Chaque être vivant possède une énergie vitale qui circule en parmanence à travers son être. Cette énergie est essentielle à notre bien-être global et à notre capacité à nous épanouir. Cependant, lorsqu'elle est bloquée, perturbée ou déséquillibrée, cela peut entraîner des déséquilibres à différents niveaux: physique, émotionnel ou spirituel. Ces perturbations peuvent se manifester par des douleurs, des tensions, des troubles émotionnels ou encore un sentiment général de mal-être.
+                <div class="d-flex flex-column flex-md-row align-items-center justify-content-center w-100">
+                    <img src="../assets/images/678fc8_171a9bb02af14679941148508a215c7f~mv2.webp" data-aos="fade-down" alt="">
+                    <p class="col-lg-6 col-md-8 col-sm-12 mx-auto">Les soins énergétiques sont un accompagnement visant à rétablir l'équilibre et l'harmonie de corps et de l'esprit. Chaque être vivant possède une énergie vitale qui circule en parmanence à travers son être. Cette énergie est essentielle à notre bien-être global et à notre capacité à nous épanouir. Cependant, lorsqu'elle est bloquée, perturbée ou déséquillibrée, cela peut entraîner des déséquilibres à différents niveaux: physique, émotionnel ou spirituel. Ces perturbations peuvent se manifester par des douleurs, des tensions, des troubles émotionnels ou encore un sentiment général de mal-être.
 
                 Les soins énergétiques permettent de rétablir cette circulation fluide de l'énergie en agissant directement sur les blocages ou déséquilibres présents. Grâce à diverses techniques, nous allons réactiver et réaligner votre énergie vitale, pour que vous retrouviez sérénité et bien-être. Chaque séance est une opportunité de nettoyer, réaligner et renforcer votre énergie, vous permettant ainsi de vivre plus sereinement et pleinement.
 
                 </p>
-                <a href="#soins énergétiques"><button class="bouton">en savoir plus</button></a>
+                </div>
+                
+                <a href="#HSRE" class="btn bouton d-block w-50 w-md-auto mx-auto">en savoir plus</a>
         </div>
+        
+
         
     </section>
     <section class="col-lg-12 col-md-12 col-sm-12 d-flex flex-column text-center p-5" id="soins énergétiques">
