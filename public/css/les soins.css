@@ -12,6 +12,7 @@ section {
 
 h3 {
     text-align: center;
+    font-family: cursive;
 }
 
 .bouton {
@@ -25,17 +26,22 @@ h3 {
     height: 50px;
 }
 
-h3, p, h4, h2 {
+p, h2 {
     font-family: cursive;
 }
 p {
-    font-size: 20px ;
+    font-size: 20px;
+    text-align: center;
 }
 
 h1 {
     font-family: cursive;
     font-weight: 700;
     font-size: 7rem;
+}
+h4 {
+    font-weight: 800;
+    font-family: cursive;
 }
 mark {
     background-color: rgba(84,44,35,1);

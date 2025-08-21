@@ -1,7 +1,7 @@
 <footer>
         <div class="footer">
             <p>&#169 L'Amagit</p>
-            <p>Contact : 06 01 02 03 04</p>
+            <p>Contact : 06 71 66 13 67</p>
             <a href="#">Mentions-legales</a>
         </div>
     </footer>

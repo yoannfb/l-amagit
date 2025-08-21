@@ -38,14 +38,14 @@ Toutes les réponses sont en nous ! Et si nous allions simplement les chercher ?
                 </p>
                 </div>
                 
-                <a href="#HSRE" class="btn bouton d-block w-50 w-md-auto mx-auto">en savoir plus</a>
+                <a href="#NRJ" class="btn bouton d-block w-50 w-md-auto mx-auto">en savoir plus</a>
         </div>
         
 
         
     </section>
     <section class="col-lg-12 col-md-12 col-sm-12 d-flex flex-column text-center p-5" id="soins énergétiques">
-        <h2 class="p-3">Soins énergétiques</h2>
+        <h2 class="p-3" id="NRJ">Soins énergétiques</h2>
         <p>
             Une séance de soins énergétiques dure environ une heure. 
             
