@@ -3,5 +3,9 @@
     justify-content: space-around;
     background-color:#fff8ef;
     height: 50px;
-    font-size: 50px;
+    font-size: 10px;
+}
+
+p {
+    font-size: 14px;
 }
