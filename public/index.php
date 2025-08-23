@@ -1,7 +1,7 @@
 <?php
 include('includes/header.php'); ?>
 
-<link rel="stylesheet" href="../css/accueil.css">
+<link rel="stylesheet" href="../css/accueil.css?v=3">
 
     <!--Section parallax 1-->
     <section id="parallax1" class="parallax-section">
