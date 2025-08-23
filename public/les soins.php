@@ -2,7 +2,7 @@
 include('includes/header.php'); ?>
 
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-<link rel="stylesheet" href="../css/les soins.css">
+<link rel="stylesheet" href="../css/les soins.css?v=3">
 
 <section class="col-lg-12 col-md-12 col-sm-12">
         <h1 class="text-center p-5">Les soins</h1>
