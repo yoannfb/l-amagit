@@ -40,7 +40,7 @@ h2, h4 {
     font-family: cursive;
 }
 p {
-    font-size: 24px;
+    font-size: 24px !important;
     font-family: cursive;
     text-align: center;
 }
