@@ -55,7 +55,7 @@ include('includes/header.php'); ?>
         </div>
     </section>
 
-    <section class="col-lg-12 col-md-12 col-sm-12 mx-auto d-flex justify-content-center flex-column text-center color">
+    <section class="col-lg-12 col-md-12 col-sm-12 pb-5 mx-auto d-flex justify-content-center flex-column text-center color">
         <h4>N'hésitez pas à me contacter au 06 71 66 13 67 (WhatsApp , SMS , Téléphone) ou via ce formulaire</h4>
         <form action="/contact.php" method="post" novalidate>
         <div class="mb-3 mx-auto col-lg-6 col-md-6">
