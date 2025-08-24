@@ -11,9 +11,9 @@
     margin: 1em;
     font-family: 'Caveat Brush', cursive;
     transition:0.5s ease;
-    display: flex;
+    display: block;
     box-sizing: border-box;
-    justify-content: center;
+    text-align: center;
 }
 
 
@@ -35,4 +35,11 @@
 .title{
     font-family: cursive;
     font-size: 14px;
+}
+
+.souligner {
+    display: inline;
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-decoration-thickness: 2px;
 }
