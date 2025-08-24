@@ -11,7 +11,7 @@
 <body>
     <header class="col-lg-12 col-md-12 col-sm-12">
         <div class="logo">
-            <img src="../assets/images/Capture d'écran 2024-10-02 091952.webp" alt="logo">
+            <img src="../assets/images/logo2.jpeg" alt="logo">
         </div>
         <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
