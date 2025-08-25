@@ -5,7 +5,7 @@
             <a href="#">Mentions-legales</a>
         </div>
     </footer>
-    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/footer.css?v=3">
     
     
 </body>
