@@ -52,7 +52,28 @@ try {
     $mail->addReplyTo($email, "$prenom $nom");
 
     // Destinataire
-    $mail->addAddress($toEmail);
+    // --- DESTINATAIRE (modifiable via variable d'environnement) ---
+$toEmail = getenv('TO_EMAIL');              // ← lira TO_EMAIL depuis Heroku
+if (!$toEmail) {
+    // sécurité/fallback (à personnaliser si tu veux un secours)
+    $toEmail = 'ton.destinataire@exemple.com';
+}
+
+// From = adresse de ton domaine Mailgun (NE PAS mettre l'email du visiteur)
+$mail->setFrom('postmaster@sandbox0b4f3aaed1c14fe2b3386e89e69d8dc4.mailgun.org', 'Formulaire Contact');
+
+// Reply-To = l’email de la personne qui a rempli le formulaire
+// Adapte les champs POST si tes <input> s’appellent différemment
+$fromEmail = isset($_POST['email']) ? trim($_POST['email']) : '';
+$fromName  = isset($_POST['name']) ? trim($_POST['name']) : 'Visiteur';
+
+if (filter_var($fromEmail, FILTER_VALIDATE_EMAIL)) {
+    $mail->addReplyTo($fromEmail, $fromName);
+}
+
+// Destinataire final
+$mail->addAddress($toEmail, 'Destinataire');
+
 
     // Contenu
     $mail->isHTML(true);
