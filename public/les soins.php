@@ -32,9 +32,9 @@ Et si nous allions simplement les chercher ?<br>
                 <h3>Soins énergétiques</h3>
                 <div class="d-flex flex-column flex-md-row align-items-center justify-content-center w-100">
                     <img src="../assets/images/678fc8_171a9bb02af14679941148508a215c7f~mv2.webp" data-aos="fade-down" alt="">
-                    <p class="col-lg-6 col-md-8 col-sm-12 mx-auto">Les soins énergétiques sont un accompagnement visant à rétablir l'équilibre et l'harmonie de corps et de l'esprit. Chaque être vivant possède une énergie vitale qui circule en parmanence à travers son être. Cette énergie est essentielle à notre bien-être global et à notre capacité à nous épanouir. Cependant, lorsqu'elle est bloquée, perturbée ou déséquillibrée, cela peut entraîner des déséquilibres à différents niveaux: physique, émotionnel ou spirituel. Ces troubles peuvent se manifester par des douleurs, des tensions, des troubles émotionnels ou encore un sentiment général de mal-être.
+                    <p class="col-lg-6 col-md-8 col-sm-12 mx-auto">Les soins énergétiques sont un accompagnement visant à rétablir l'équilibre et l'harmonie du corps et de l'esprit. Chaque être vivant possède une énergie vitale qui circule en parmanence à travers son être. Cette énergie est essentielle à notre bien-être global et à notre capacité à nous épanouir. Cependant, lorsqu'elle est bloquée, perturbée ou déséquillibrée, cela peut entraîner des désordres à différents niveaux: physique, émotionnel ou spirituel. Ces perturbations peuvent se manifester par des douleurs, des tensions, des troubles émotionnels ou encore un sentiment général de mal-être.
 
-                Les soins énergétiques permettent de rétablir cette circulation fluide de l'énergie en agissant directement sur les blocages ou déséquilibres présents en nous. Grâce à diverses techniques, nous allons réactiver et réaligner votre énergie vitale, afin que vous retrouviez sérénité et bien-être. Chaque séance est une opportunité de nettoyer, réaligner et renforcer votre énergie, vous permettant ainsi de vivre plus sereinement.
+                Les soins énergétiques permettent de rétablir une circulation fluide de l'énergie en agissant directement sur les blocages ou déséquilibres présents en nous. Grâce à diverses techniques, nous allons réactiver et réaligner votre énergie vitale, afin que vous retrouviez sérénité et bien-être. Chaque séance est une opportunité de nettoyer, réaligner et renforcer votre énergie, vous permettant ainsi de vivre plus sereinement.
 
                 </p>
                 </div>
@@ -47,7 +47,7 @@ Et si nous allions simplement les chercher ?<br>
     </section>
     <section class="col-lg-12 col-md-12 col-sm-12 d-flex flex-column text-center p-5" id="HSRE">
         <h2 class="p-3">Hypnose spirituelle régressive énergétique</h2>
-        <p>L'hypnose spirituelle régressive énergétique allie hypnose, la thérapie régressive et le travail énergétique.</p>
+        <p>L'hypnose spirituelle régressive énergétique allie l'hypnose, la thérapie régressive et le travail énergétique.</p>
         <p>L'hypnose est un état de conscience modifié qui permet d'accéder à des souvenirs, des sensations et des mémoires souvent inaccessibles à l'état conscient.
 
             Grâce à un état de relaxation profond, je vous guide dans ce voyage intérieur pour explorer ces aspects cachés de votre âme.</p>
@@ -82,7 +82,7 @@ Et si nous allions simplement les chercher ?<br>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <h4>Larves énergétiques </h4>
-                <p>Les larves énergétiques sont des formes d’énergie négative, souvent perçues comme des parasites. Elles se fixent sur un individu, absorbant son énergie vitale et créant un vide énergétique. Cela peut provoquer fatigue excessive, amplification des émotions négatives comme la colère, la tristesse ou l’anxiété, ou encore des troubles de la concentration. Ces larves résultent souvent d’émotions non résolues, de traumatismes, de pensées obsessionnelles ou de comportements destructeurs. Elles peuvent également provenir d’interactions avec d’autres personnes portant des énergies lourdes. Leur élimination permet de restaurer l’équilibre émotionnel et physique.</p>
+                <p>Les larves énergétiques sont des formes d’énergies négatives, souvent perçues comme des parasites. Elles se fixent sur un individu, absorbant son énergie vitale et créant un vide énergétique. Cela peut provoquer fatigue excessive, amplification des émotions négatives comme la colère, la tristesse ou l’anxiété, ou encore des troubles de la concentration. Ces larves résultent souvent d’émotions non résolues, de traumatismes, de pensées obsessionnelles ou de comportements destructeurs. Elles peuvent également provenir d’interactions avec d’autres personnes portant des énergies lourdes. Leur élimination permet de restaurer l’équilibre émotionnel et physique.</p>
             </div>
         </div>
         <p class="fw-bold fst-italic text-decoration-underline fs-5">Les soins énergétiques ne remplacent pas un diagnostic ou un traitement médical. Il est toujours recommandé de consulter un médecin pour des problèmes de santé.</p>

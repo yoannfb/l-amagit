@@ -90,6 +90,9 @@ include('includes/header.php'); ?>
                 <div class="text col-lg-4 col-md-4 d-flex align-items-center m-5 mx-1">Est-ce que les soins énergétiques peuvent aider avec des problèmes spécifiques?</div>
                 <div class="answer col-lg-6 col-md-6 col-sm-6 pt-4 ps-5 mx-auto">Les soins énergétiques peuvent-être bénéfiques pour une variété de problèmes, y compris le stress, l'anxiété, les douleurs chroniques, les troubles du sommeil et bien d'autres.<br><span class="souligner">Cependant, ils ne remplacent pas un diagnostic ou un traitement médical. Il est toujours recommandé de consulter un médecin pour des problèmes de santé spécifiques.</span></div>
             </div>
+            <div  id="lien" class="d-flex">
+                <div class="answer col-lg-6 col-md-6 col-sm-6 pt-4 ps-5 mx-auto">Pour les femmes enceintes, je préfère éviter l'hypnose régressive car elle peut faire remonter des émotions très profondes, ce qui peut générer du stress et n'est pas recommandé durant la grossesse.</div>
+                <div class="text col-lg-4 col-md-4 d-flex align-items-center m-5 mx-1">Puis-je une séance d'hypnose regressive spirituelle énergétique pendant ma grossesse ?</div>
         </div>
 
     </section>
