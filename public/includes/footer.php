@@ -4,9 +4,4 @@
             <p>Contact : 06 71 66 13 67</p>
             <a href="#">Mentions-legales</a>
         </div>
-    </footer>
-    <link rel="stylesheet" href="../css/footer.css?v=3">
-    
-    
-</body>
-</html>
+</footer>

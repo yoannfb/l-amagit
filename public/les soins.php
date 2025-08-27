@@ -78,7 +78,7 @@ Et si nous allions simplement les chercher ?<br>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 d-flex flex-column align-self-end" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <h4>Entités</h4>
-                <p>Les entités sont les esprits de personnes disparues qui ne sont pas passés de l’autre côté et qui restent attachés à ce monde. Elles peuvent se fixer sur un lieu ou une personne et perturber son bien-être. La présence d’une entité peut se manifester par une sensation de lourdeur, de fatigue inexpliquée, des changements d’humeur soudains ou un sentiment de stagnation dans la vie. Les soins énergétiques permettent de libérer ces entités afin de restaurer l’harmonie et le calme intérieur.</p>
+                <p>Les entités sont les esprits de personnes disparues qui ne sont pas passés de l’autre côté et qui restent attachés à ce monde. Elles sont capables de se fixer sur un lieu ou une personne et perturber son bien-être. La présence d’une entité peut se manifester par une sensation de lourdeur, de fatigue inexpliquée, des changements d’humeur soudains ou un sentiment de stagnation dans la vie. Les soins énergétiques permettent de libérer ces entités afin de restaurer l’harmonie et le calme intérieur.</p>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                 <h4>Larves énergétiques </h4>
