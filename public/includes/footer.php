@@ -1,3 +1,4 @@
+<?php // includes/footer.php ?>
 <footer>
         <div class="footer">
             <p>&#169 L'Amagit-les soins</p>
