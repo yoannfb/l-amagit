@@ -1,9 +1,8 @@
 <?php
 include('includes/header.php'); ?>
-
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 <link rel="stylesheet" href="../css/les soins.css?v=3">
-
+<main>
 <section class="col-lg-12 col-md-12 col-sm-12">
         <h1 class="text-center p-5">Les soins</h1>
         <div class="col-lg-12 col-md-12 col-sm-12 d-flex flex-column justify-content-center align-items-center mx-2 pt-3 px-3 pb-5 energy">
@@ -87,9 +86,7 @@ Et si nous allions simplement les chercher ?<br>
         </div>
         <p class="fw-bold fst-italic text-decoration-underline fs-5">Les soins énergétiques ne remplacent pas un diagnostic ou un traitement médical. Il est toujours recommandé de consulter un médecin pour des problèmes de santé.</p>
     </section>
-    
-
-
+</main>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
         AOS.init();

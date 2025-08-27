@@ -1,8 +1,7 @@
 <?php
 include('includes/header.php'); ?>
-
 <link rel="stylesheet" href="../css/accueil.css?v=3">
-
+<main>
     <!--Section parallax 1-->
     <section id="parallax1" class="parallax-section">
         <div class="overlay"></div>
@@ -86,8 +85,6 @@ include('includes/header.php'); ?>
         </div>
         </form>
     </section>
-
-
+</main>
 <script src="../js/accueil.js"></script>
-
 <?php include('includes/footer.php'); ?>
