@@ -72,7 +72,32 @@ if (filter_var($fromEmail, FILTER_VALIDATE_EMAIL)) {
 }
 
 // Destinataire final
+// --- DESTINATAIRE (depuis variables d'environnement) ---
+$toEmail =
+    getenv('TO_EMAIL') ?:                // Heroku/Apache
+    ($_ENV['TO_EMAIL'] ?? null) ?:       // fallback possible
+    ($_SERVER['TO_EMAIL'] ?? null);      // fallback possible
+
+if (!$toEmail) {
+    error_log('TO_EMAIL manquante côté serveur'); // visible dans heroku logs
+    http_response_code(500);
+    echo 'Désolé, configuration destinataire manquante.';
+    exit;
+}
+
+// From = adresse Mailgun (NE PAS mettre l’email du visiteur)
+$mail->setFrom('postmaster@sandbox0b4f3aaed1c14fe2b3386e89e69d8dc4.mailgun.org', 'Formulaire Contact');
+
+// Reply-To = l’email saisi par l’utilisateur (ajuste les names si besoin)
+$fromEmail = $_POST['email'] ?? '';
+$fromName  = $_POST['name']  ?? 'Visiteur';
+if (filter_var($fromEmail, FILTER_VALIDATE_EMAIL)) {
+    $mail->addReplyTo($fromEmail, $fromName);
+}
+
+// Destinataire final
 $mail->addAddress($toEmail, 'Destinataire');
+
 
 
     // Contenu
