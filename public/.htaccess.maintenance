@@ -1,0 +1,19 @@
+# Mode Maintenance
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    
+    # Rediriger toutes les requêtes vers maintenance.php
+    # sauf si on accède déjà à maintenance.php
+    RewriteCond %{REQUEST_URI} !^/maintenance\.php$
+    RewriteCond %{REQUEST_URI} !^/assets/
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)$ /maintenance.php [L,R=503]
+    
+    # Envoyer un code HTTP 503 (Service Unavailable)
+    ErrorDocument 503 /maintenance.php
+</IfModule>
+
+# Activer le mode maintenance en définissant le code de réponse 503
+<IfModule mod_headers.c>
+    Header set Retry-After "3600"
+</IfModule>

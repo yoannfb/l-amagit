@@ -1,11 +1,3 @@
-<?php
-// Mode Maintenance activé
-// Pour désactiver : supprimer ce fichier et renommer index.php.backup en index.php
-
-header("HTTP/1.1 503 Service Temporarily Unavailable");
-header("Status: 503 Service Temporarily Unavailable");
-header("Retry-After: 3600"); // Revenir dans 1 heure
-?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -142,9 +134,4 @@ header("Retry-After: 3600"); // Revenir dans 1 heure
         
         <div class="contact-info">
             <p>Pour toute urgence, vous pouvez nous contacter :</p>
-            <p>📧 <a href="mailto:contact@lamagit.fr">lamagit.soins@gmail.com</a></p>
-            <p>📱 Téléphone : 06 71 66 13 67</p>
-        </div>
-    </div>
-</body>
-</html>
+            <p>📧 <a href="/cdn-cgi/l/email-protection#fb9894958f9a988fbb979a969a9c928fd59d89"><span class="__cf_email__" data-cfemail="96f5f9f8e2f7f5e2d6faf7fbf7f1ffe2b8f0e4">[
